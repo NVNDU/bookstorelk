@@ -1,7 +1,6 @@
 package lk.bookstore.onlinebookshop.Entity;
 
 import jakarta.persistence.*;
-import org.w3c.dom.Text;
 
 @Entity(name = "book")
 public class Book {
